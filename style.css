@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightcoral;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: black;
+}
+
+#wrapper {
+    background-color: white;
+    width: 350px;
+    margin: 30px auto;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#result {
+    background-color: white;
+    margin-top: 25px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+#result h2 {
+    color: darkred;
+}
